@@ -7,7 +7,7 @@ mobile browsers.
 
 The artwork is under the CC-BY-NC license and can not be used in commercial
 products.
-
+My customized fork of Green Mahjong 
 Play it in the browser: http://greenmahjong.daniel-beck.org
 
 Store listings (existing entries, see "Publishing" below for how updates are
